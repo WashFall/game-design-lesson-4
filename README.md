@@ -1,4 +1,4 @@
-# game design lesson 4
+# Space Noir
  
 ![](https://github.com/WashFall/game-design-lesson-4/blob/main/space-noir-colors.PNG)
 
